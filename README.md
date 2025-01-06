@@ -91,8 +91,13 @@
 ### 21 Days of Code - A Web Development Bootcamp by Programming Hero
 - **Platform**: [Programming Hero](https://web.programming-hero.com/)
 - **Details**: A comprehensive bootcamp covering web development fundamentals, from HTML/CSS to JavaScript and front-end frameworks.
-- **Certificate Image**:
-![21 Days of Code Certificate](/Certificates/Rabiul-Hasan-Rafee.png)
+<img src="/Certificates/Rabiul-Hasan-Rafee.png" alt="21 Days of Code Certificate" width="500px">
+
+
+### Mastering PostgreSQL: The Ultimate SQL Guide for Beginners
+- **Platform**: [Udemy](https://www.udemy.com/)
+- **Details**: Completed a course covering PostgreSQL fundamentals, advanced queries, and SQL optimization techniques. Taught by Ahmed EL Mohandes on SDE Arts.
+<img src="/Certificates/UDEMY-PSQL.jpg" alt="PostgreSQL Certificate" width="500px">
 
 
 ## 🛠️ Projects
