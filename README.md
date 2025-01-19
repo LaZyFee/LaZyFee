@@ -76,9 +76,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaZyFee&theme=github_dark&hide_border=false" alt="GitHub Streak Stats" height="200"/>
 </div>
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=LaZyFee&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LaZyFee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -98,6 +95,10 @@
 - **Platform**: [Udemy](https://www.udemy.com/)
 - **Details**: Completed a course covering PostgreSQL fundamentals, advanced queries, and SQL optimization techniques. Taught by Ahmed EL Mohandes on SDE Arts.
 <img src="/Certificates/UDEMY-PSQL.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-JS_FUNCTION.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-JS_FUNDAMENTAL.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-MODERN_JS.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-TS_BASIC.jpg" alt="PostgreSQL Certificate" width="500px">
 
 
 ## 🛠️ Projects
