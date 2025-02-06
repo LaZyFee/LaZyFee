@@ -95,10 +95,14 @@
 - **Platform**: [Udemy](https://www.udemy.com/)
 - **Details**: Completed a course covering PostgreSQL fundamentals, advanced queries, and SQL optimization techniques. Taught by Ahmed EL Mohandes on SDE Arts.
 <img src="/Certificates/UDEMY-PSQL.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-TS_BASIC.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/Cloudinary-For-NodeJS-Devs.png" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-DOCKER.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-JS_FUMDAMENTAL_TO_ADVANCE.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-JavaScript_Fundamentals_for_Absolute_Beginners.jpg" alt="PostgreSQL Certificate" width="500px">
 <img src="/Certificates/UDEMY-JS_FUNCTION.jpg" alt="PostgreSQL Certificate" width="500px">
 <img src="/Certificates/UDEMY-JS_FUNDAMENTAL.jpg" alt="PostgreSQL Certificate" width="500px">
 <img src="/Certificates/UDEMY-MODERN_JS.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-TS_BASIC.jpg" alt="PostgreSQL Certificate" width="500px">
 
 
 ## 🛠️ Projects
