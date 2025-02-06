@@ -7,7 +7,7 @@
 - 💬 Ask me about **MERN Stack, JavaScript, C, C++**, or my experience as a developer and instructor.  
 - 📫 How to reach me: **rhr277@gmail.com**  
 - 🌐 Explore my work: [My Portfolio](https://rabiul-rafee-portfolio.netlify.app/)
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazyfee&label=Profile%20views&color=0e75b6&style=flat" alt="lazyfee" /> </p>
 
 
 ## 🌐 Socials:
@@ -65,23 +65,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)&nbsp; 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)&nbsp; 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
-
-
-
-# 📊 GitHub Stats:
-
-<div style="display: flex; justify-content: space-between; gap: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaZyFee&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=LaZyFee&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaZyFee&theme=github_dark&hide_border=false" alt="GitHub Streak Stats" height="200"/>
-</div>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LaZyFee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazyfee&label=Profile%20views&color=0e75b6&style=flat" alt="lazyfee" /> </p>
 
 
 ## 🛠️ Projects
@@ -187,18 +170,33 @@
 ### 21 Days of Code - A Web Development Bootcamp by Programming Hero
 - **Platform**: [Programming Hero](https://web.programming-hero.com/)
 - **Details**: A comprehensive bootcamp covering web development fundamentals, from HTML/CSS to JavaScript and front-end frameworks.
-<img src="/Certificates/Rabiul-Hasan-Rafee.png" alt="21 Days of Code Certificate" width="500px">
+<img src="/Certificates/Rabiul-Hasan-Rafee.png" alt="21 Days of Code Certificate">
 
 
 ### Mastering PostgreSQL: The Ultimate SQL Guide for Beginners
 - **Platform**: [Udemy](https://www.udemy.com/)
 - **Details**: Completed a course covering PostgreSQL fundamentals, advanced queries, and SQL optimization techniques. Taught by Ahmed EL Mohandes on SDE Arts.
-<img src="/Certificates/UDEMY-PSQL.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-TS_BASIC.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/Cloudinary-For-NodeJS-Devs.png" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-DOCKER.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-JS_FUMDAMENTAL_TO_ADVANCE.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-JavaScript_Fundamentals_for_Absolute_Beginners.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-JS_FUNCTION.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-JS_FUNDAMENTAL.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-MODERN_JS.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-PSQL.jpg" alt="PostgreSQL Certificate">
+<img src="/Certificates/UDEMY-TS_BASIC.jpg" alt="PostgreSQL Certificate">
+<img src="/Certificates/Cloudinary-For-NodeJS-Devs.png" alt="PostgreSQL Certificate">
+<img src="/Certificates/UDEMY-DOCKER.jpg" alt="PostgreSQL Certificate">
+<img src="/Certificates/UDEMY-JS_FUMDAMENTAL_TO_ADVANCE.jpg" alt="PostgreSQL Certificate">
+<img src="/Certificates/UDEMY-JavaScript_Fundamentals_for_Absolute_Beginners.jpg" alt="PostgreSQL Certificate">
+<img src="/Certificates/UDEMY-JS_FUNCTION.jpg" alt="PostgreSQL Certificate">
+<img src="/Certificates/UDEMY-JS_FUNDAMENTAL.jpg" alt="PostgreSQL Certificate">
+<img src="/Certificates/UDEMY-MODERN_JS.jpg" alt="PostgreSQL Certificate">
+
+---
+# 📊 GitHub Stats:
+
+<div style="display: flex; justify-content: space-between; gap: 40px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaZyFee&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LaZyFee&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaZyFee&theme=github_dark&hide_border=false" alt="GitHub Streak Stats" height="200"/>
+</div>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LaZyFee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
