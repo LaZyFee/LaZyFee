@@ -83,30 +83,17 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazyfee&label=Profile%20views&color=0e75b6&style=flat" alt="lazyfee" /> </p>
 
-## 🎓 Certifications
-
-### 21 Days of Code - A Web Development Bootcamp by Programming Hero
-- **Platform**: [Programming Hero](https://web.programming-hero.com/)
-- **Details**: A comprehensive bootcamp covering web development fundamentals, from HTML/CSS to JavaScript and front-end frameworks.
-<img src="/Certificates/Rabiul-Hasan-Rafee.png" alt="21 Days of Code Certificate" width="500px">
-
-
-### Mastering PostgreSQL: The Ultimate SQL Guide for Beginners
-- **Platform**: [Udemy](https://www.udemy.com/)
-- **Details**: Completed a course covering PostgreSQL fundamentals, advanced queries, and SQL optimization techniques. Taught by Ahmed EL Mohandes on SDE Arts.
-<img src="/Certificates/UDEMY-PSQL.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-TS_BASIC.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/Cloudinary-For-NodeJS-Devs.png" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-DOCKER.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-JS_FUMDAMENTAL_TO_ADVANCE.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-JavaScript_Fundamentals_for_Absolute_Beginners.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-JS_FUNCTION.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-JS_FUNDAMENTAL.jpg" alt="PostgreSQL Certificate" width="500px">
-<img src="/Certificates/UDEMY-MODERN_JS.jpg" alt="PostgreSQL Certificate" width="500px">
-
 
 ## 🛠️ Projects
 
+### [Blog Web App](https://github.com/LaZyFee/Blog_app)
+- **Description**: The Blog Web App is a full-stack application designed for creating, managing, and sharing blog posts. It includes robust authentication features such as user signup, login, email verification, password reset, and token-based route protection. Users can upload images with Multer, manage content effortlessly, and enjoy a dynamic browsing experience powered by Swiper.
+- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Mongoose](https://img.shields.io/badge/Mongoose-8800B0?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/) [![Multer](https://img.shields.io/badge/Multer-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)](https://www.npmjs.com/package/multer) [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/) [![Zustand](https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand) [![Swiper](https://img.shields.io/badge/Swiper-FF7A00?style=for-the-badge&logo=swiper&logoColor=white)](https://swiperjs.com/) [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
+- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/Blog_app)
+
+![Blog Web App](Asset/Projects/blog-web-app.png)
+
+---
 ### [Jerin's Parlour](https://jerins-parlour-server-iota.vercel.app/)
 - **Description**: A full-featured parlour management app built using the MERN stack, enabling customers to book, pay, and review services, with an admin portal for service management. Leveraged React and Vite on the frontend and Node.js, Express, MongoDB, Passport.js, and Multer for a secure, flexible backend, including email/password and Google OAuth2 authentication. Integrated Stripe and PayPal for payment processing, ensuring a seamless and secure user experience.
 -  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/) [![Zustand](https://img.shields.io/badge/Zustand-FF6F61?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand) [![Passport.js](https://img.shields.io/badge/Passport.js-003366?style=for-the-badge&logo=passport&logoColor=white)](http://www.passportjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/) [![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
@@ -124,6 +111,14 @@
 ![Doctor's Portal](/projects/doctors-portal.jpg)
 
 ---
+### [ChitChat](https://github.com/LaZyFee/ChitChat-Client-side)
+- **Description**: ChitChat is a feature-rich real-time chat application developed using React, Express, MongoDB, and Zustand for seamless state management. It incorporates essential functionalities such as user authentication, email verification, password reset, and protected routes. Users can engage in one-on-one and group chats, share files, and enjoy dynamic visuals powered by Three.js and Vanta.js. Real-time communication is enabled through Socket.io, ensuring instant message delivery.
+- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Zustand](https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand) [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) [![Vanta.js](https://img.shields.io/badge/Vanta.js-7c34f8?style=for-the-badge&logo=javascript&logoColor=white)](https://www.vantajs.com/) [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/) [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
+- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/ChitChat-Client-side)
+
+![ChitChat](/projects/ChitChat.png)
+
+---
 
 ### [Expense Tracker](https://expensetrackerwebappx.netlify.app/)
 - **Description**: This project is an expense tracker web application designed to help users track and manage their expenses efficiently. The app is built with the MERN stack (MongoDB, Express, React, Node.js) and leverages multiple libraries for enhanced UI/UX and functionality.
@@ -134,23 +129,6 @@
 
 ---
 
-### [ChitChat](https://github.com/LaZyFee/ChitChat-Client-side)
-- **Description**: ChitChat is a feature-rich real-time chat application developed using React, Express, MongoDB, and Zustand for seamless state management. It incorporates essential functionalities such as user authentication, email verification, password reset, and protected routes. Users can engage in one-on-one and group chats, share files, and enjoy dynamic visuals powered by Three.js and Vanta.js. Real-time communication is enabled through Socket.io, ensuring instant message delivery.
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Zustand](https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand) [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) [![Vanta.js](https://img.shields.io/badge/Vanta.js-7c34f8?style=for-the-badge&logo=javascript&logoColor=white)](https://www.vantajs.com/) [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/) [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/ChitChat-Client-side)
-
-![ChitChat](/projects/ChitChat.png)
-
----
-
-### [Blog Web App](https://github.com/LaZyFee/Blog_app)
-- **Description**: The Blog Web App is a full-stack application designed for creating, managing, and sharing blog posts. It includes robust authentication features such as user signup, login, email verification, password reset, and token-based route protection. Users can upload images with Multer, manage content effortlessly, and enjoy a dynamic browsing experience powered by Swiper.
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Mongoose](https://img.shields.io/badge/Mongoose-8800B0?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/) [![Multer](https://img.shields.io/badge/Multer-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)](https://www.npmjs.com/package/multer) [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/) [![Zustand](https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand) [![Swiper](https://img.shields.io/badge/Swiper-FF7A00?style=for-the-badge&logo=swiper&logoColor=white)](https://swiperjs.com/) [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/Blog_app)
-
-![Blog Web App](Asset/Projects/blog-web-app.png)
-
----
 
 ### [ToDo](https://todowebappx.netlify.app/)
 - **Description**: This is a Todo web application built with React and Vite, featuring user authentication, and CRUD operations for todos. The application also includes a light/dark theme toggle for improved user experience.
@@ -204,3 +182,23 @@
 ![Authentication](/projects/authentication.png)
 
 ---
+## 🎓 Certifications
+
+### 21 Days of Code - A Web Development Bootcamp by Programming Hero
+- **Platform**: [Programming Hero](https://web.programming-hero.com/)
+- **Details**: A comprehensive bootcamp covering web development fundamentals, from HTML/CSS to JavaScript and front-end frameworks.
+<img src="/Certificates/Rabiul-Hasan-Rafee.png" alt="21 Days of Code Certificate" width="500px">
+
+
+### Mastering PostgreSQL: The Ultimate SQL Guide for Beginners
+- **Platform**: [Udemy](https://www.udemy.com/)
+- **Details**: Completed a course covering PostgreSQL fundamentals, advanced queries, and SQL optimization techniques. Taught by Ahmed EL Mohandes on SDE Arts.
+<img src="/Certificates/UDEMY-PSQL.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-TS_BASIC.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/Cloudinary-For-NodeJS-Devs.png" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-DOCKER.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-JS_FUMDAMENTAL_TO_ADVANCE.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-JavaScript_Fundamentals_for_Absolute_Beginners.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-JS_FUNCTION.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-JS_FUNDAMENTAL.jpg" alt="PostgreSQL Certificate" width="500px">
+<img src="/Certificates/UDEMY-MODERN_JS.jpg" alt="PostgreSQL Certificate" width="500px">
