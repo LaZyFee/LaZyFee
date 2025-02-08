@@ -81,119 +81,31 @@
 
 ---
 
-## 🛠️ Projects
-
-### [Blog Web App](https://github.com/LaZyFee/Blog_app)
-- **Description**: The Blog Web App is a full-stack application designed for creating, managing, and sharing blog posts. It includes robust authentication features such as user signup, login, email verification, password reset, and token-based route protection. Users can upload images with Multer, manage content effortlessly, and enjoy a dynamic browsing experience powered by Swiper.
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Mongoose](https://img.shields.io/badge/Mongoose-8800B0?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/) [![Multer](https://img.shields.io/badge/Multer-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)](https://www.npmjs.com/package/multer) [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/) [![Zustand](https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand) [![Swiper](https://img.shields.io/badge/Swiper-FF7A00?style=for-the-badge&logo=swiper&logoColor=white)](https://swiperjs.com/) [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/Blog_app)
-
-![Blog Web App](/projects/blog-web-app.png)
-
----
-### [Jerin's Parlour](https://jerins-parlour-server-iota.vercel.app/)
-- **Description**: A full-featured parlour management app built using the MERN stack, enabling customers to book, pay, and review services, with an admin portal for service management. Leveraged React and Vite on the front end and Node.js, Express, MongoDB, Passport.js, and Multer for a secure, flexible backend, including email/password and Google OAuth2 authentication. Integrated Stripe and PayPal for payment processing, ensuring a seamless and secure user experience.
--  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/) [![Zustand](https://img.shields.io/badge/Zustand-FF6F61?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand) [![Passport.js](https://img.shields.io/badge/Passport.js-003366?style=for-the-badge&logo=passport&logoColor=white)](http://www.passportjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/) [![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/jerins-Parlour-Server)
-
-![Jerin's Parlour](/projects/jerins-parlour.png)
-
----
-
-### [Doctor's Portal](https://doctors-portal-mern.netlify.app/)
-- **Description**: Doctors Portal is a full-stack appointment booking application where users can view available slots for various services by day, book appointments, and make payments using Stripe. The project also includes an admin dashboard, enabling administrators to manage bookings, promote users to admins, view doctor lists, and add new doctors.
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![React-Query](https://img.shields.io/badge/React--Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)](https://react-query.tanstack.com/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/) [![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/) [![NodeMailer](https://img.shields.io/badge/NodeMailer-000000?style=for-the-badge&logo=npm&logoColor=white)](https://nodemailer.com/)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/Doctors-portal-client)
-
-![Doctor's Portal](/projects/doctors-portal.jpg)
-
----
-### [ChitChat](https://github.com/LaZyFee/ChitChat-Client-side)
-- **Description**: ChitChat is a feature-rich real-time chat application developed using React, Express, MongoDB, and Zustand for seamless state management. It incorporates essential functionalities such as user authentication, email verification, password reset, and protected routes. Users can engage in one-on-one and group chats, share files, and enjoy dynamic visuals powered by Three.js and Vanta.js. Real-time communication is enabled through Socket.io, ensuring instant message delivery.
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Zustand](https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand) [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) [![Vanta.js](https://img.shields.io/badge/Vanta.js-7c34f8?style=for-the-badge&logo=javascript&logoColor=white)](https://www.vantajs.com/) [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/) [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/ChitChat-Client-side)
-
-![ChitChat](/projects/ChitChat.png)
-
----
-
-### [Expense Tracker](https://expensetrackerwebappx.netlify.app/)
-- **Description**: This project is an expense tracker web application designed to help users track and manage their expenses efficiently. The app is built with the MERN stack (MongoDB, Express, React, Node.js) and leverages multiple libraries for enhanced UI/UX and functionality.
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Zustand](https://img.shields.io/badge/Zustand-FF6F61?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Rechart](https://img.shields.io/badge/Recharts-FF4136?style=for-the-badge&logo=react&logoColor=white)](https://recharts.org/)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/Expense-Tracker-Client)
-
-![Expense Tracker](/projects/expense-tracker.png)
-
----
-
-
-### [ToDo](https://todowebappx.netlify.app/)
-- **Description**: This is a Todo web application built with React and Vite, featuring user authentication, and CRUD operations for todos. The application also includes a light/dark theme toggle for improved user experience.
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Zustand](https://img.shields.io/badge/Zustand-FF6F61?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/ToDo_Client)
-
-![ToDo](/projects/todo.png)
-
----
-
-### [Internship Task](https://internship-task-hr.netlify.app)
-- **Description**: This is a web application built with React and Vite, featuring state management with Zustand, Tailwind CSS for styling, and DaisyUI for rapid UI development. It includes Stripe for secure payment processing, MongoDB Atlas for cloud data storage, and Nodemailer for email services. Admin features include protected routes to manage orders, customize or delete product plans, and more.
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![Zustand](https://img.shields.io/badge/Zustand-FF6F61?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/) [![Nodemailer](https://img.shields.io/badge/Nodemailer-000000?style=for-the-badge&logo=npm&logoColor=white)](https://nodemailer.com/)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/Internship-Task)
-
-![Internship Task](/projects/internship-task.png)
-
----
-
-### [Ema Jhon](https://emajhonwebapp.netlify.app/)
-- **Description**: Ema Jhon is a simple eCommerce demo application built using React, Firebase, Express, and MongoDB. This application provides a basic online shopping experience with product listings, order review, cart management, and a seamless authentication flow.
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/ema-jhon)
-
-![Ema Jhon](/projects/ema-jhon.jpg)
-
----
-
-### [Genius Car Service](https://lazy-car-service.netlify.app/)
-- **Description**: Genius Car Service is a full-stack application that allows users to book car services easily. The application is built using React for the front end and Express with MongoDB for the back end. It provides features for user authentication, service selection, and booking.
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/genius-car-service)
-
-![Genius Car Service](/projects/genius-car.jpg)
-
----
-
-### [News Portal](https://lazy-news-portal.netlify.app/)
-- **Description**: The News Portal is a simple web app that displays the latest news articles, providing users with easy access to breaking news in various categories.
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/news-portal)
-
-![News Portal](/projects/news-portal.jpg)
-
----
-### [Authentication using Email and Password](https://github.com/LaZyFee/auth_using_mern)
-- **Description**: This is a basic authentication system built using React, Express, MongoDB, and various other tools for email verification and state management. The project is structured to include essential features like user signup, login, email verification, password reset, and route protection.
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Zustand](https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand) [![Mailtrap](https://img.shields.io/badge/Mailtrap-FF5B5B?style=for-the-badge&logo=mailtrap&logoColor=white)](https://mailtrap.io/)
-- **Source Code**: [GitHub Repository](https://github.com/LaZyFee/auth_using_mern)
-
-![Authentication](/projects/authentication.png)
-
----
 ## 🎓 Certifications
 
-### 21 Days of Code - A Web Development Bootcamp by Programming Hero
-- **Platform**: [Programming Hero](https://web.programming-hero.com/)
-- **Details**: A comprehensive bootcamp covering web development fundamentals, from HTML/CSS to JavaScript and front-end frameworks.
-<img src="/Certificates/Rabiul-Hasan-Rafee.png" alt="21 Days of Code Certificate">
-<img src="/Certificates/UDEMY-PSQL.jpg" alt="PostgreSQL Certificate">
-<img src="/Certificates/UDEMY-TS_BASIC.jpg" alt="PostgreSQL Certificate">
-<img src="/Certificates/Cloudinary-For-NodeJS-Devs.png" alt="PostgreSQL Certificate">
-<img src="/Certificates/UDEMY-DOCKER.jpg" alt="PostgreSQL Certificate">
-<img src="/Certificates/UDEMY-JS_FUMDAMENTAL_TO_ADVANCE.jpg" alt="PostgreSQL Certificate">
-<img src="/Certificates/UDEMY-JavaScript_Fundamentals_for_Absolute_Beginners.jpg" alt="PostgreSQL Certificate">
-<img src="/Certificates/UDEMY-JS_FUNCTION.jpg" alt="PostgreSQL Certificate">
-<img src="/Certificates/UDEMY-JS_FUNDAMENTAL.jpg" alt="PostgreSQL Certificate">
-<img src="/Certificates/UDEMY-MODERN_JS.jpg" alt="PostgreSQL Certificate">
+| Certificate | Platform | Preview |
+|------------|----------|---------|
+| **21 Days of Code - A Web Development Bootcamp** | [Programming Hero](https://web.programming-hero.com/) | <img src="Certificates/Rabiul-Hasan-Rafee.png" width="500"> |
+| **PostgreSQL** | Udemy | <img src="Certificates/UDEMY-PSQL.jpg" width="500"> |
+| **TypeScript Basics** | Udemy | <img src="Certificates/UDEMY-TS_BASIC.jpg" width="500"> |
+| **Cloudinary for NodeJS Developers** | Cloudinary | <img src="Certificates/Cloudinary-For-NodeJS-Devs.png" width="500"> |
+| **Docker** | Udemy | <img src="Certificates/UDEMY-DOCKER.jpg" width="500"> |
+| **JavaScript Fundamentals to Advanced** | Udemy | <img src="Certificates/UDEMY-JS_FUMDAMENTAL_TO_ADVANCE.jpg" width="500"> |
+| **JavaScript Fundamentals for Absolute Beginners** | Udemy | <img src="Certificates/UDEMY-JavaScript_Fundamentals_for_Absolute_Beginners.jpg" width="500"> |
+| **JavaScript Functions** | Udemy | <img src="Certificates/UDEMY-JS_FUNCTION.jpg" width="500"> |
+| **JavaScript Fundamentals** | Udemy | <img src="Certificates/UDEMY-JS_FUNDAMENTAL.jpg" width="500"> |
+| **Modern JavaScript** | Udemy | <img src="Certificates/UDEMY-MODERN_JS.jpg" width="500"> |
 
 ---
 
+## 🛠️ Projects
+
+| Project Name | Description | Technologies | Live Demo | Source Code | Image |
+|-------------|-------------|--------------|-----------|-------------|-------|
+| **[Blog Web App]** | The Blog Web App allows users to create, manage, and share blog posts with authentication, image uploads, and dynamic browsing. | React, Node.js, Express, MongoDB, Mongoose, Multer, JWT, Zustand, Swiper, Axios | [Live](https://blog-web-appx.netlify.app) | [GitHub](https://github.com/LaZyFee/Blog_app) | ![Blog Web App](/projects/blog-web-app.png) |
+| **[Jerin's Parlour]** | A parlour management app where customers can book, pay, and review services, with an admin portal for managing services and payments. | React, Vite, Tailwind CSS, Axios, Zustand, Passport.js, Node.js, Express, MongoDB, Stripe, PayPal | [Live](https://jerins-parlour-server-iota.vercel.app/) | [GitHub](https://github.com/LaZyFee/jerins-Parlour-Server) | ![Jerin's Parlour](/projects/jerins-parlour.png) |
+| **[Doctor's Portal]** | A full-stack appointment booking system where users can schedule and pay for services, with admin functionalities for management. | React, Tailwind CSS, React-Query, Node.js, Express, MongoDB, Firebase, Stripe, NodeMailer | [Live](https://doctors-portal-mern.netlify.app/) | [GitHub](https://github.com/LaZyFee/Doctors-portal-client) | ![Doctor's Portal](/projects/doctors-portal.jpg) |
+| **[ChitChat]** | A real-time chat application with one-on-one and group chats, file sharing, and WebSocket communication. | React, Node.js, Express, MongoDB, Zustand, Three.js, Vanta.js, Socket.io, Axios | - | [GitHub](https://github.com/LaZyFee/ChitChat-Client-side) | ![ChitChat](/projects/ChitChat.png) |
+| **[Expense Tracker]** | A web app to track and manage expenses, built with the MERN stack and includes data visualization. | React, Tailwind CSS, Zustand, Node.js, Express, MongoDB, Recharts | [Live](https://expensetrackerwebappx.netlify.app/) | [GitHub](https://github.com/LaZyFee/Expense-Tracker-Client) | ![Expense Tracker](/projects/expense-tracker.png) |
+| **[ToDo]** | A Todo web app with authentication, CRUD operations, and theme toggle support. | React, Tailwind CSS, Node.js, Express, MongoDB, Zustand | [Live](https://todowebappx.netlify.app/) | [GitHub](https://github.com/LaZyFee/TodoWebApp) | ![ToDo](/projects/todo.png) |
+---
