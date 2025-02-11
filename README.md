@@ -1,4 +1,5 @@
-<h1 align="center">Hello, I'm Rabiul Hasan Rafee</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+%F0%9F%91%8B">
+<h1 align="center"> I'm Rabiul Hasan Rafee</h1>
 <h3 align="center">A passionate Full Stack (MERN) developer from Bangladesh </h3>
 
 
