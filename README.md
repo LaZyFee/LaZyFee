@@ -3,9 +3,10 @@
 <h3 align="center">A passionate Full Stack (MERN) developer from Bangladesh </h3>
 
 
-- 🔭 I’m working [as an Instructor at Code Segment](https://www.codesegment.org/).  
+- 🔭 I’m working as a Trainee Full Stack Web Developer at [SM IT Solution](https://smitsolution.com.bd/)
+- 🧑‍🏫 Former Instructor at [Code Segment](https://www.codesegment.org/) 
 - 🌱 I’m diving deeper into MERN Stack, Next.js, TypeScript, SQL, and PostgreSQL to build modern, scalable applications.  
-- 💬 Ask me about **MERN Stack, JavaScript, C, C++**, or my experience as a developer and instructor.  
+- 💬 Ask me about **MERN Stack, JavaScript, TypeScript, C, C++**, or my experience as a developer and instructor.  
 - 📫 How to reach me: **rhr277@gmail.com**  
 - 🌐 Explore my work: [My Portfolio](https://rabiul-rafee-portfolio.netlify.app/)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazyfee&label=Profile%20views&color=0e75b6&style=flat" alt="lazyfee" /> </p>
