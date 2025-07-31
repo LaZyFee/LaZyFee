@@ -83,6 +83,13 @@
 
 ---
 
+### 🔍 Useful Snippets
+
+- 🌐 [NextAuth OAuth Setup in Next.js](https://gist.github.com/LaZyFee/5ed9074fac07be55ff8a9e5d1c58bb58)
+
+
+---
+
 ## 🎓 Certifications
 
 | Certificate | Platform | Preview |
