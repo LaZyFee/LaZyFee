@@ -6,6 +6,8 @@
 - 💻 Former Trainee Full Stack Web Developer at [SM IT Solution](https://smitsolution.com.bd/)
 - 🧑‍🏫 Former Instructor at [Code Segment](https://www.codesegment.org/)
 
+---
+
 ### 🚀 What I'm Working On:
 
 I'm deepening my skills in modern web development with a focus on:
@@ -120,26 +122,23 @@ If you're curious or need help with:
 
 ## 🎓 Certifications
 
-| Certificate                                      | Platform                                              | Preview                                                             |
-| ------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------------- |
-| **_ REACTIVE ACCELERATOR _**                     | [LWS](https://learnwithsumit.com/rnext)               | <img src="Certificates/LWS-Certificate.jpg" width="500">            |
-| **_ REACTIVE ACCELERATOR _**                     | [LWS](https://learnwithsumit.com/rnext)               | <img src="Certificates/LWS-Excellence-Certificate.jpg" width="500"> |
-| **_ REACTIVE ACCELERATOR _**                     | [LWS](https://learnwithsumit.com/rnext)               | <img src="Certificates/LWS-Recommendation-Letter.jpg" width="500">  |
-| **21 Days of Code - A Web Development Bootcamp** | [Programming Hero](https://web.programming-hero.com/) | <img src="Certificates/Rabiul-Hasan-Rafee.png" width="500">         |
-
-| **SQA Workshop for Absolute Beginners** | [OSTAD](https://ostad.app/) | <img src="Certificates/SQA-WORKSHOP.png" width="500">
-
-| **Golang Workshop for Absolute Beginners** | [OSTAD](https://ostad.app/) | <img src="Certificates/GOLANG-WORKSHOP.png" width="500">
-
-| **PostgreSQL** | Udemy | <img src="Certificates/UDEMY-PSQL.jpg" width="500"> |
-| **TypeScript Basics** | Udemy | <img src="Certificates/UDEMY-TS_BASIC.jpg" width="500"> |
-| **Cloudinary for NodeJS Developers** | Cloudinary | <img src="Certificates/Cloudinary-For-NodeJS-Devs.png" width="500"> |
-| **Docker** | Udemy | <img src="Certificates/UDEMY-DOCKER.jpg" width="500"> |
-| **JavaScript Fundamentals to Advanced** | Udemy | <img src="Certificates/UDEMY-JS_FUMDAMENTAL_TO_ADVANCE.jpg" width="500"> |
-| **JavaScript Fundamentals for Absolute Beginners** | Udemy | <img src="Certificates/UDEMY-JavaScript_Fundamentals_for_Absolute_Beginners.jpg" width="500"> |
-| **JavaScript Functions** | Udemy | <img src="Certificates/UDEMY-JS_FUNCTION.jpg" width="500"> |
-| **JavaScript Fundamentals** | Udemy | <img src="Certificates/UDEMY-JS_FUNDAMENTAL.jpg" width="500"> |
-| **Modern JavaScript** | Udemy | <img src="Certificates/UDEMY-MODERN_JS.jpg" width="500"> |
+| Certificate                                        | Platform                                              | Preview                                                                                       |
+| -------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **_REACTIVE ACCELERATOR_**                         | [LWS](https://learnwithsumit.com/rnext)               | <img src="Certificates/LWS-Certificate.jpg" width="500">                                      |
+| **_REACTIVE ACCELERATOR - Excellence_**            | [LWS](https://learnwithsumit.com/rnext)               | <img src="Certificates/LWS-Excellence-Certificate.jpg" width="500">                           |
+| **_REACTIVE ACCELERATOR - Recommendation Letter_** | [LWS](https://learnwithsumit.com/rnext)               | <img src="Certificates/LWS-Recommendation-Letter.jpg" width="500">                            |
+| **21 Days of Code - A Web Development Bootcamp**   | [Programming Hero](https://web.programming-hero.com/) | <img src="Certificates/Rabiul-Hasan-Rafee.png" width="500">                                   |
+| **SQA Workshop for Absolute Beginners**            | [OSTAD](https://ostad.app/)                           | <img src="Certificates/SQA-WORKSHOP.png" width="500">                                         |
+| **Golang Workshop for Absolute Beginners**         | [OSTAD](https://ostad.app/)                           | <img src="Certificates/GOLANG-WORKSHOP.png" width="500">                                      |
+| **PostgreSQL**                                     | [Udemy](https://www.udemy.com/)                       | <img src="Certificates/UDEMY-PSQL.jpg" width="500">                                           |
+| **TypeScript Basics**                              | [Udemy](https://www.udemy.com/)                       | <img src="Certificates/UDEMY-TS_BASIC.jpg" width="500">                                       |
+| **Cloudinary for NodeJS Developers**               | [Cloudinary](https://cloudinary.com/)                 | <img src="Certificates/Cloudinary-For-NodeJS-Devs.png" width="500">                           |
+| **Docker**                                         | [Udemy](https://www.udemy.com/)                       | <img src="Certificates/UDEMY-DOCKER.jpg" width="500">                                         |
+| **JavaScript Fundamentals to Advanced**            | [Udemy](https://www.udemy.com/)                       | <img src="Certificates/UDEMY-JS_FUMDAMENTAL_TO_ADVANCE.jpg" width="500">                      |
+| **JavaScript Fundamentals for Absolute Beginners** | [Udemy](https://www.udemy.com/)                       | <img src="Certificates/UDEMY-JavaScript_Fundamentals_for_Absolute_Beginners.jpg" width="500"> |
+| **JavaScript Functions**                           | [Udemy](https://www.udemy.com/)                       | <img src="Certificates/UDEMY-JS_FUNCTION.jpg" width="500">                                    |
+| **JavaScript Fundamentals**                        | [Udemy](https://www.udemy.com/)                       | <img src="Certificates/UDEMY-JS_FUNDAMENTAL.jpg" width="500">                                 |
+| **Modern JavaScript**                              | [Udemy](https://www.udemy.com/)                       | <img src="Certificates/UDEMY-MODERN_JS.jpg" width="500">                                      |
 
 ---
 
