@@ -2,7 +2,8 @@
 <h1 align="center"> I'm Rabiul Hasan Rafee</h1>
 <h3 align="center">A passionate Full Stack (MERN) developer from Bangladesh </h3>
 
-- 🔭 I’m working as a Support Software Engineer at [Neosysworld](https://www.neosysworld.com/)
+- 💼 Full Stack Developer at [R-Creation][(https://www.r-creations.com/](https://rcreation-bd.com/))
+- 🔭 Former Support Software Engineer at [Neosysworld](https://www.neosysworld.com/)
 - 💻 Former Trainee Full Stack Web Developer at [SM IT Solution](https://smitsolution.com.bd/)
 - 🧑‍🏫 Former Instructor at [Code Segment](https://www.codesegment.org/)
 
@@ -23,7 +24,7 @@ I'm deepening my skills in modern web development with a focus on:
 
 If you're curious or need help with:
 
-- **MERN Stack**, **JavaScript**, **TypeScript**
+- **MERN Stack**, **Next JS**, **JavaScript**, **TypeScript**
 - **C**, **C++**
 - Or want insights from my experience as a **developer** and **instructor** — feel free to reach out!
 
